@@ -21,7 +21,7 @@
 		2A89BE214AE3A2B544B1F46F /* Pods-Swift1.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Swift1.release.xcconfig"; path = "Target Support Files/Pods-Swift1/Pods-Swift1.release.xcconfig"; sourceTree = "<group>"; };
 		2DC7BD2F8F8A3CDBA1E98CA8 /* Pods_Swift1.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Swift1.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F38BB1EE04F9730271AF9F03 /* Pods-Swift1.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Swift1.debug.xcconfig"; path = "Target Support Files/Pods-Swift1/Pods-Swift1.debug.xcconfig"; sourceTree = "<group>"; };
-		F69DC9D126F8907D003A0B90 /* Swift1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Swift1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F69DC9D126F8907D003A0B90 /* WJKHT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WJKHT.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F69DC9D426F8907D003A0B90 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F69DC9D626F8907D003A0B90 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		F69DC9D826F8907D003A0B90 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -66,7 +66,7 @@
 		F69DC9D226F8907D003A0B90 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F69DC9D126F8907D003A0B90 /* Swift1.app */,
+				F69DC9D126F8907D003A0B90 /* WJKHT.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -113,7 +113,7 @@
 			);
 			name = Swift1;
 			productName = Swift1;
-			productReference = F69DC9D126F8907D003A0B90 /* Swift1.app */;
+			productReference = F69DC9D126F8907D003A0B90 /* WJKHT.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -364,7 +364,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "-.Swift1";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = WJKHT;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -382,7 +382,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "-.Swift1";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = WJKHT;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
