@@ -1,0 +1,33 @@
+PODS:
+  - FLAnimatedImage (1.0.16)
+  - Mantle (2.1.6):
+    - Mantle/extobjc (= 2.1.6)
+  - Mantle/extobjc (2.1.6)
+  - ReactiveObjC (3.1.1)
+  - SDWebImage/Core (4.4.8)
+  - SDWebImage/GIF (4.4.8):
+    - FLAnimatedImage (~> 1.0)
+    - SDWebImage/Core
+
+DEPENDENCIES:
+  - FLAnimatedImage (~> 1.0)
+  - Mantle
+  - ReactiveObjC (~> 3.1.0)
+  - SDWebImage/GIF
+
+SPEC REPOS:
+  trunk:
+    - FLAnimatedImage
+    - Mantle
+    - ReactiveObjC
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  FLAnimatedImage: 8f3e854ebf9680b71f0b6e700939687fc4d82b4b
+  Mantle: 4c0ed6ce47c96eccc4dc3bb071deb3def0e2c3be
+  ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
+  SDWebImage: 783af2c3fa36291a250030c4752ee370a9a51d13
+
+PODFILE CHECKSUM: 0623f36e5ec347064e9c5957c680afa3769e44fa
+
+COCOAPODS: 1.8.4
