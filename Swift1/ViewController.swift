@@ -65,7 +65,7 @@ class ViewController: UIViewController {
                 self.gif2.isHidden = true
                 self.photo1.image = UIImage(named: "wjk")
                 self.photo1.alpha = 1
-                self.label1.text = "wjk"
+                self.label1.text = "wjkaaaa"
             }
         }
         else {
